@@ -5,7 +5,8 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
+.featureImage {
   width: 200px;
+  height: 200px;
+  object-fit: contain;
 }
