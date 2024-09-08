@@ -23,17 +23,16 @@ const config: Config = {
   tagline: "Community for developers to connect and learn together.",
   favicon: "favicon.ico",
 
-  // TODO: Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://gdsccvr.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // TODO: baseUrl
   baseUrl: "/",
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "gdsccvr", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  projectName: "gdsccvr.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
