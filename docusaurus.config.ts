@@ -2,6 +2,22 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
+const copyrightText = (() => {
+  const yearName = `Copyright © ${new Date().getFullYear()} GDG on Campus – CVR`;
+  const a = (href: string, text: string) =>
+    `<a href="${href}" target="_blank" rel="license noopener noreferrer">${text}</a>`;
+  const codeLicense = a(
+    "https://spdx.org/licenses/AGPL-3.0-only.html",
+    "AGPLv3"
+  );
+  const textLicense = a(
+    "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "CC BY-NC-SA 4.0"
+  );
+  const license = `Code licensed under ${codeLicense}, content under ${textLicense}.`;
+  return `${yearName}<br>${license}`;
+})();
+
 const config: Config = {
   title: "GDG on Campus – CVR College of Engineering",
   tagline: "Community for developers to connect and learn together.",
@@ -82,7 +98,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} GDG on Campus – CVR`,
+      copyright: copyrightText,
     },
     prism: {
       theme: prismThemes.github,
