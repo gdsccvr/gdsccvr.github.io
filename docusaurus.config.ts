@@ -84,9 +84,11 @@ const config: Config = {
         src: "img/logo.png",
       },
       items: [
-        { to: "/events", label: "📅 Events", position: "left" },
+        // TODO: events page
+        // { to: "/events", label: "📅 Events", position: "left" },
         { to: "/team", label: "👥 Team", position: "left" },
-        { to: "/blog", label: "✍️ Blog", position: "left" },
+        // TODO: blog
+        // { to: "/blog", label: "✍️ Blog", position: "left" },
         { to: "/links", label: "🔗 Links", position: "left" },
         {
           href: "https://gdg.community.dev/gdg-on-campus-cvr-college-of-engineering-hyderabad-india/",

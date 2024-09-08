@@ -36,6 +36,9 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        {
+          // TODO: Srimanth's quote from old website
+        }
       </main>
     </Layout>
   );
