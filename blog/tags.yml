@@ -1,0 +1,8 @@
+programming:
+  label: Programming
+  permalink: /programming
+  description: Programming
+machine-learning:
+  label: Machine Learning
+  permalink: /machine-learning
+  description: Machine Learning
