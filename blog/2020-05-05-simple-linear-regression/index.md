@@ -11,9 +11,11 @@ Linear regression is the simplest form of a classification problem. We have many
 
 <!-- truncate -->
 
-<!-- TODO: center this image -->
+<div style={{textAlign: 'center'}}>
 
 ![Linear regression](./linear-regression.png)
+
+</div>
 
 The core concept behind the linear regression is the line equation. Y = m \* x + C, Where Y , x = point on the line, m = slope , C = Y intercept. So, from the above equation we can create a line just by finding the optimal values of m,C.
 

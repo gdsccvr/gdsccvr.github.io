@@ -6,3 +6,7 @@ machine-learning:
   label: Machine Learning
   permalink: /machine-learning
   description: Machine Learning
+deep-learning:
+  label: Deep Learning
+  permalink: /deep-learning
+  description: Deep Learning
