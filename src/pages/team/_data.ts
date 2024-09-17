@@ -31,7 +31,7 @@ export const team2023: Profile[] = [
   {
     name: "Vikas Rushi",
     title: "Web Core Team Lead",
-    src: "/img/team/Vikas Rushi",
+    src: "/img/team/Vikas Rushi.png",
     instagram: "https://www.instagram.com/vikas_rushi/",
     github: "https://github.com/0xVikasRushi/",
     linkedin: "https://www.linkedin.com/in/vikas-rushi/",
@@ -47,7 +47,7 @@ export const team2023: Profile[] = [
   {
     title: "Web Core Team Member",
     name: "Suraj Thammi",
-    src: "/img/team/Suraj Thammi",
+    src: "/img/team/Suraj Thammi.png",
     instagram: "https://www.instagram.com/suraj__712",
     github: "https://github.com/suraj719",
     linkedin: "https://www.linkedin.com/in/surajthammi/",
@@ -55,7 +55,7 @@ export const team2023: Profile[] = [
   {
     title: "Web Core Team Member",
     name: "Puli Revanth Pershad",
-    src: "/img/team/Puli Revanth Pershad",
+    src: "/img/team/Puli Revanth Pershad.png",
     instagram: "https://www.instagram.com/revanthpershad",
     github: "https://github.com/Revanth-Pershad",
     linkedin: "https://www.linkedin.com/in/revanth-pershad-217937245/",
@@ -63,7 +63,7 @@ export const team2023: Profile[] = [
   {
     title: "Web Core Team Member",
     name: "G Nithish Reddy",
-    src: "/img/team/G Nithish Reddy",
+    src: "/img/team/G Nithish Reddy.png",
     instagram: "https://www.instagram.com/nithish_reddy27",
     github: "https://github.com/nithishreddy27",
     linkedin: "https://www.linkedin.com/in/nithish-reddy-5703a11ba",
@@ -86,7 +86,7 @@ export const team2023: Profile[] = [
   {
     title: "Android Core Team Member",
     name: "Umang Darak",
-    src: "/img/team/Umang Darak",
+    src: "/img/team/Umang Darak.png",
     instagram: "https://www.instagram.com/umang_darak",
     github: "https://github.com/umangdarak/TripPlanner",
     linkedin: "https://www.linkedin.com/in/umang-darak-14064025a",
@@ -94,7 +94,7 @@ export const team2023: Profile[] = [
   {
     title: "Android Core Team Member",
     name: "Shaik Taj Baba",
-    src: "/img/team/Shaik Taj Baba",
+    src: "/img/team/Shaik Taj Baba.png",
     instagram: "https://www.instagram.com/tajbaba999",
     github: "https://github.com/tajbaba999",
     linkedin: "https://www.linkedin.com/in/taj-baba-profile/",
@@ -110,7 +110,7 @@ export const team2023: Profile[] = [
   {
     title: "AI/ML Core Team Lead",
     name: "Dasula Akshat Mohan",
-    src: "/img/team/Dasula Akshat Mohan.jpg",
+    src: "/img/team/Dasula Akshat Mohan.png",
     instagram: "https://www.instagram.com/kamearirikachi_159",
     github: "https://github.com/AkshatMittu?tab=repositories",
     linkedin: "www.linkedin.com/in/akshat-mohan-5a361b212",
@@ -143,14 +143,14 @@ export const team2023: Profile[] = [
   {
     title: "Cybersecurity Core Team Lead",
     name: "Samrath Reddy Yelapati",
-    src: "/img/team/Samrath Reddy Yelapati",
+    src: "/img/team/Samrath Reddy Yelapati.png",
     github: "https://github.com/samrathreddy",
     linkedin: "https://www.linkedin.com/in/samrath-reddy-74103824a",
   },
   {
     title: "Cybersecurity Core Team Member",
     name: "Ramavath Rajaram",
-    src: "/img/team/Ramavath Rajaram",
+    src: "/img/team/Ramavath Rajaram.png",
     instagram: "https://www.instagram.com/rajaram._.ramavath",
     github: "https://github.com/rajaramramavath",
     linkedin: "https://in.linkedin.com/in/rajaram-ramavath-8807731a0",
@@ -166,7 +166,7 @@ export const team2023: Profile[] = [
   {
     title: "Cybersecurity Core Team Member",
     name: "Yashwanth Chilaka",
-    src: "/img/team/Yashwanth Chilaka",
+    src: "/img/team/Yashwanth Chilaka.jpg",
     instagram: "https://www.instagram.com/yashwanth.30",
     github: "https://github.com/Yashwanth-13",
     linkedin: "www.linkedin.com/in/yashwanth-chilaka-834284253",
@@ -174,7 +174,7 @@ export const team2023: Profile[] = [
   {
     title: "Cybersecurity Core Team Member",
     name: "Tanusree Reddy",
-    src: "/img/team/Tanusree Reddy",
+    src: "/img/team/Tanusree Reddy.jpg",
     instagram: "https://www.instagram.com/tanusree.reddyy",
     github: "https://github.com/tanusree13",
     linkedin: "https://www.linkedin.com/in/tanusree-reddy-a46b24287/",
@@ -198,7 +198,7 @@ export const team2023: Profile[] = [
   {
     title: "Blockchain Core Team Member",
     name: "Vinay Ganta",
-    src: "/img/team/Vinay Ganta",
+    src: "/img/team/Vinay Ganta.jpg",
     instagram: "https://www.instagram.com/_mellomanic",
     linkedin: "https://www.linkedin.com/in/vinayganta/",
   },
@@ -212,14 +212,14 @@ export const team2023: Profile[] = [
   {
     title: "Graphic Designer",
     name: "Yalamanchili Venkata Sridhar",
-    src: "/img/team/Yalamanchili Venkata Sridhar",
+    src: "/img/team/Yalamanchili Venkata Sridhar.jpg",
     instagram: "https://www.instagram.com/yvsridhar2",
     linkedin: "https://www.linkedin.com/in/yv-sridhar-137674230",
   },
   {
     title: "Graphic Designer",
     name: "Himavarshini Attili",
-    src: "/img/team/Himavarshini Attili",
+    src: "/img/team/Himavarshini Attili.jpg",
     instagram: "https://www.instagram.com/himavarshini.attili",
     linkedin: "www.linkedin.com/in/himavarshini-attili",
   },
@@ -233,14 +233,14 @@ export const team2023: Profile[] = [
   {
     title: "Strategies & Operations and Public Relations",
     name: "Harshith Madhavaram",
-    src: "/img/team/Harshith Madhavaram",
+    src: "/img/team/Harshith Madhavaram.png",
     instagram: "https://www.instagram.com/madhavaram.harshith",
     linkedin: "www.linkedin.com/in/harshith-madhavaram-37433322b",
   },
   {
     title: "Strategies & Operations",
-    name: "Rishika. Bussa",
-    src: "/img/team/Rishika. Bussa",
+    name: "Rishika Bussa",
+    src: "/img/team/Rishika Bussa.jpg",
     instagram: "https://www.instagram.com/me_rishika_",
     linkedin: "https://www.linkedin.com/in/rishika-bussa-690bb2252",
   },
@@ -267,7 +267,7 @@ export const team2023: Profile[] = [
   {
     title: "Public Relations",
     name: "G Sneha",
-    src: "/img/team/G Sneha",
+    src: "/img/team/G Sneha.jpg",
     instagram: "https://www.instagram.com/sneha_gopishetty",
     linkedin: "https://www.linkedin.com/in/sneha-gopishetty-21b32027a",
   },
