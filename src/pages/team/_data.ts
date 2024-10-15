@@ -1,5 +1,277 @@
 import { Profile } from "./_team";
 
+
+export const team2024: Profile[] = [
+  {
+    name: "Vijaya Mair",
+    title: "Placement Co-ordinator and Mentor",
+    src: "/img/team/vijaya_mair.jpg",
+    linkedin: "https://www.linkedin.com/in/vijayamair/",
+  },
+  {
+    name: "Seetharam Nagesh Appe",
+    title: "Faculty Co-Ordinator",
+    src: "/img/team/nagesh.jpeg",
+    linkedin: "https://www.linkedin.com/in/seetharamnagesh-appe-4584281aa/",
+  },
+    {
+      name: "Sheetal Gujar",
+      title: "GDSC Lead",
+      src: "/img/team/Sheetal Gujar.jpeg",
+      instagram: "https://www.instagram.com/_shheetal/",
+      github:"https://github.com/sshheetal",
+      linkedin: "https://www.linkedin.com/in/sheetal-gujar/"
+    },
+    {
+      name: "Vishal Keerthan Parankusham",
+      title: "Web Core Team Lead",
+      src: "/img/team/Vishal Keerthan.jpg",
+      instagram: "https://www.instagram.com/pvishalkeerthan/",
+      github: "https://github.com/pvishalkeerthan",
+      linkedin: "https://www.linkedin.com/in/vishal-keerthan/"
+    },
+    {
+      title: "Web Core Team Member",
+      name: "Suraj Thammi",
+      src: "/img/team/Suraj Thammi.png",
+      instagram: "https://www.instagram.com/suraj__712",
+      github: "https://github.com/suraj719",
+      linkedin: "https://www.linkedin.com/in/surajthammi/"
+    },
+    {
+      title: "Web Core Team Member",
+      name: "Sneha Muthyala",
+      src: "/img/team/Sneha Muthyala.jpg",
+      github: "https://github.com/SnehaMuthyala",
+      linkedin: "https://www.linkedin.com/in/sneha-muthyala-78594a280"
+    },
+    {
+      title: "Web Core Team Member",
+      name: "Siripuram Akash",
+      src: "/img/team/Siripuram Akash.jpeg",
+      instagram: "https://www.instagram.com/akash_siripuram_19",
+      github: "https://github.com/akashsiripuram",
+      linkedin: "https://www.linkedin.com/in/siripuramakash"
+    },
+    {
+      title: "Android Core Team Lead",
+      name: "Aryan Shivva",
+      src: "/img/team/Aryan Shivva.jpg",
+      instagram: "https://github.com/AryanShivva",
+      github: "https://github.com/AryanShivva",
+      linkedin: "https://www.linkedin.com/in/aryan-shivva-839669256/"
+    },
+    {
+      title: "Android Core Team Member",
+      name: "Pesarikayala Sai Charan Reddy",
+      src: "/img/team/Sai Charan Reddy.jpeg",
+      instagram: "https://www.instagram.com/saicharanreddy_79",
+      github: "https://github.com/PSaiCharanReddy",
+      linkedin: "https://www.linkedin.com/in/pesarikayalasaicharanreddypesarikayala/"
+    },
+    {
+      title: "Android Core Team Member",
+      name: "Anjith surya vamshi",
+      src: "/img/team/Anjith surya vamshi.jpg",
+      instagram: "https://www.instagram.com/anjith.sv",
+      github: "https://github.com/AnjithSuryaVamshi",
+      linkedin: "https://www.linkedin.com/in/anjith-a561a22a0/"
+    },
+    {
+      title: "AI/ML & DS Core Team Lead",
+      name: "K Shanthan",
+      src: "/img/team/K Shanthan.jpg",
+      instagram: "https://www.instagram.com/shanthan_katkuri",
+      github: "https://www.github.com/shanthankatkuri",
+      linkedin: "https://www.linkedin.com/in/shanthanreddykatkuri/"
+    },
+    {
+      title: "AI/ML & DS Core Team Member",
+      name: "Kruthin Reddy",
+      src: "/img/team/Kruthin Reddy.jpeg",
+      instagram: "https://www.instagram.com/kruthin_reddy",
+      github: "https://github.com/Rikkykruthin",
+      linkedin: "https://www.linkedin.com/in/kruthin-reddy"
+    },
+    {
+      title: "AI/ML & DS Core Team Member",
+      name: "K Rohith Kumar",
+      src: "/img/team/K Rohith Kumar.jpeg",
+      instagram: "https://www.instagram.com/umheyitsrohit",
+      github: "https://github.com/rohitkumar9989",
+      linkedin: "https://www.linkedin.com/in/rohith-kumar-650560215"
+    },
+    {
+      title: "AI/ML & DS Core Team Member",
+      name: "Badisa Srinidhi",
+      src: "/img/team/Badisa Srinidhi.jpg",
+      instagram: "https://www.instagram.com/bsrinidhi_04",
+      github: "http://github.com/SNidhi2004",
+      linkedin: "http://www.linkedin.com/in/srinidhi-badisa- 10311b301"
+    },
+    {
+      title: "Cybersecurity & Block Chain Core Team Lead",
+      name: "Rajaram Ramavath",
+      src: "/img/team/Rajaram Ramavath.jpg",
+      instagram: "https://www.instagram.com/id._.ram",
+      github: "https://github.com/rajaramramavath",
+      linkedin: "http://www.linkedin.com/in/rajaram-ramavath"
+    },
+    {
+      title: "Cybersecurity & Block Chain Core Team Member",
+      name: "Mani Venkata Sai Medam",
+      src: "/img/team/Mani Venkata Sai Medam.jpg",
+      instagram: "https://www.instagram.com/_m_m_v_s_",
+      github: "https://github.com/manivenkatasai9494",
+      linkedin: "https://www.linkedin.com/in/manivenkatasaimedam/"
+    },
+    {
+      title: "Cybersecurity & Block Chain Core Team Member",
+      name: "Shaik Saalam",
+      src: "/img/team/Shaik Saalam.jpeg",
+      instagram: "https://www.instagram.com/vr0nti",
+      github: "https://github.com/Saalam121",
+      linkedin: "https://www.linkedin.com/in/vronti/"
+    },
+    {
+      title: "Cybersecurity & Block Chain Core Team Member",
+      name: "Padigepati Sai Charan Reddy",
+      src: "/img/team/Padigepati Sai Charan Reddy.jpg",
+      instagram: "https://www.instagram.com/sai___charan__reddy",
+      github: "https://github.com/SaicharanCEH",
+      linkedin: "http://www.linkedin.com/in/sai-charan-reddy-padigepati-841658291"
+    },
+    {
+      title: "Competitive Programming Core Team Lead",
+      name: "Ananya Pappula",
+      src: "/img/team/Ananya Pappula.jpg",
+      instagram: "https://www.instagram.com/_ananya_521",
+      github: "https://github.com/Ananya54321",
+      linkedin: "https://www.linkedin.com/in/ananya-pappula-1735b9288/"
+    },
+    {
+      title: "Competitive Programming Core Team Member",
+      name: "Mani Yadla",
+      src: "/img/team/Mani Yadla.jpg",
+      instagram: "https://www.instagram.com/_mani_yadla/",
+      github: "https://github.com/YadlaMani",
+      linkedin: "https://www.linkedin.com/in/yadla-mani/"
+    },
+    {
+      title: "Competitive Programming Core Team Member",
+      name: "Devoju Siri",
+      src: "/img/team/Devoju Siri.jpg",
+      instagram: "https://www.instagram.com/im_siri6",
+      github: "https://github.com/siridevoju",
+      linkedin: "https://linkedin.com/in/siridevoju"
+    },
+    {
+      title: "Competitive Programming Core Team Member",
+      name: "Vemulakonda Sai Venkata Prabath",
+      src: "/img/team/Vemulakonda Sai Venkata Prabath.jpg",
+      instagram: "https://www.instagram.com/this_is_prabhath/",
+      github: "https://github.com/Prabathvsv",
+      linkedin: "https://www.linkedin.com/in/prabhath-vemulakonda-37b6a222a"
+    },
+    {
+      name: "T Karthik Gupta",
+      title: "IoT and Embedded Core Team Lead",
+      src: "/img/team/T Karthik Gupta.png",
+      instagram: "https://www.instagram.com/jame_smort/",
+      linkedin: "http://linkedin.com/in/karthik-gupta-telukunta-884b3a26a"
+    },
+    {
+      name: "Chindada Mahima Sharon",
+      title: "IoT and Embedded Core Team Member",
+      src: "/img/team/Chindada Mahima Sharon.jpg",
+      instagram: "https://www.instagram.com/mahimasharxnn",
+      github: "https://github.com/mahimasharonn",
+      linkedin: "https://www.linkedin.com/in/mahima-sharon-chindada-b161aa319/"
+    },
+    {
+      name: "Damuluri Sathvik",
+      title: "IoT and Embedded Core Team Member",
+      src: "/img/team/Damuluri Sathvik.jpg",
+      instagram: "https://www.instagram.com/sathvikd09",
+      github: "https://github.com/sathvikdamuluri",
+      linkedin: "https://www.linkedin.com/in/sathvik-damuluri/"
+    },
+    {
+      name: "Rendla Yashasri",
+      title: "IoT and Embedded Core Team Member",
+      src: "/img/team/Rendla Yashasri.jpg",
+      instagram: "https://www.instagram.com/yashasri.04",
+      github: "https://github.com/yashasri04",
+      linkedin: "https://www.linkedin.com/in/yashasri-rendla-952362295/"
+    },
+    {
+      name: "Ayush A. Shah",
+      title: "Logistics Core Team Lead",
+      src: "/img/team/Ayush A. Shah.jpg",
+      instagram: "https://www.instagram.com/_ayushshah_07",
+      github: "https://github.com/AyushShah-07",
+      linkedin: "http://www.linkedin.com/in/ayush-shah-17646927b"
+    },
+    {
+      name: "Dhruv Gupta",
+      title: "Logistics Core Team Member",
+      src: "/img/team/Dhruv Gupta.jpg",
+      instagram: "https://www.instagram.com/dhruuu_txt",
+      github: "https://github.com/dhruvvv07",
+      linkedin: "http://www.linkedin.com/in/dhruvgupta007"
+    },
+    {
+      name: "Kompally Amarthya",
+      title: "Logistics Core Team Member",
+      src: "/img/team/Kompally Amarthya.jpg",
+      instagram: "https://www.instagram.com/amarthya_munna",
+      github: "https://github.com/Amarthya076",
+      linkedin: "https://www.linkedin.com/in/amarthya-kompally-a6ba2228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      name: "Patalay Amrith",
+      title: "Logistics Core Team Member",
+      src: "/img/team/Patalay Amrith.jpeg",
+      instagram: "https://www.instagram.com/P_amrith",
+      github: "https://github.com/topics/login/patalayamrith",
+      linkedin: "https://www.linkedin.com/in/amrith-patalay-92a498258"
+    },
+    {
+      title: "Graphic Designer Core Team Lead",
+      name: "U.Prajwal kumar",
+      src: "/img/team/U.Prajwal kumar.jpg",
+      instagram: "https://www.instagram.com/_prajwalkumarr_",
+      github:"https://github.com/Prajwalkumarrr",
+      linkedin: "http://www.linkedin.com/in/prajwalkumar-uppala"
+    },
+    {
+      title: "Graphic Designer Core Team Member",
+      name: "Akash Garine",
+      src: "/img/team/Akash Garine.jpeg",
+      instagram: "https://www.instagram.com/akash_garine",
+      github:"https://github.com/akashgarine",
+      linkedin: "https://www.linkedin.com/in/akashgarine"
+    },
+    {
+      title: "Graphic Designer Core Team Member",
+      name: "Vemulawada Omkar",
+      src: "/img/team/Vemulawada Omkar.jpg",
+      instagram: "https://www.instagram.com/Omkar_39356",
+      github:"https://github.com/omkar393566",
+      linkedin: "https://www.linkedin.com/in/omkar-vemulawada-691010301/"
+    },
+    {
+      title: "Social Awareness Core Team",
+      name: "Rishika Bussa",
+      src: "/img/team/Rishika Bussa.jpg",
+      instagram: "https://www.instagram.com/me_rishika_",
+      github:"https://github.com/RishikaHub",
+      linkedin: "https://www.linkedin.com/in/rishika-bussa?utm_source=share&utm_campaign=share_via&utm_content=profile"
+    }
+  
+];
+
+
 export const team2023: Profile[] = [
   {
     name: "Vijaya Mair",
