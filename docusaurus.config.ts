@@ -8,11 +8,11 @@ const copyrightText = (() => {
     `<a href="${href}" target="_blank" rel="license noopener noreferrer">${text}</a>`;
   const codeLicense = a(
     "https://spdx.org/licenses/AGPL-3.0-only.html",
-    "AGPLv3"
+    "AGPLv3",
   );
   const textLicense = a(
     "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "CC BY-NC-SA 4.0"
+    "CC BY-NC-SA 4.0",
   );
   const license = `Code licensed under ${codeLicense}, content under ${textLicense}.`;
   return `${yearName}<br>${license}`;
