@@ -15,7 +15,7 @@ export const team2024: Profile[] = [
   },
   {
     name: "Sheetal Gujar",
-    title: "GDSC Lead",
+    title: "GDG Lead",
     src: "/img/team/Sheetal Gujar.jpeg",
     instagram: "https://www.instagram.com/_shheetal/",
     github: "https://github.com/sshheetal",
@@ -120,7 +120,7 @@ export const team2024: Profile[] = [
   {
     title: "Cybersecurity & Block Chain Core Team Member",
     name: "Mani Venkata Sai Medam",
-    src: "/img/team/Mani Venkata Sai Medam.jpg",
+    src: "/img/team/Mani Venkata sai Medam.jpg",
     instagram: "https://www.instagram.com/_m_m_v_s_",
     github: "https://github.com/manivenkatasai9494",
     linkedin: "https://www.linkedin.com/in/manivenkatasaimedam/",
@@ -145,7 +145,7 @@ export const team2024: Profile[] = [
   {
     title: "Competitive Programming Core Team Lead",
     name: "Ananya Pappula",
-    src: "/img/team/Ananya Pappula.jpg",
+    src: "/img/team/Ananya pappula.jpg",
     instagram: "https://www.instagram.com/_ananya_521",
     github: "https://github.com/Ananya54321",
     linkedin: "https://www.linkedin.com/in/ananya-pappula-1735b9288/",
